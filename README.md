@@ -9,7 +9,7 @@ DevOps Engineer with 2 years of experience focused on automation. Experienced wi
 - 👯 I’m looking to collaborate on `machine learning projects`
 - 🤔 I’m looking for help with `golang and rust`
 - 💬 Ask me about `games and animes`
-- 📫 How to reach me: [gmail](ricardo.hrlima@gmail.com)
+- 📫 How to reach me: <ricardo.hrlima@gmail.com>
 - 😄 Pronouns: `he/him`
 - ⚡ Fun fact: `I hate League of Legends, but I play it everyday`
 
