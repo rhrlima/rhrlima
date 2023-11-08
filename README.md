@@ -1,6 +1,6 @@
 # Ricardo Lima
 
-PhD in Evolutionary Computation and Machine Learning, including combinatorial optimization, meta-heuristics, and deep neural networks. Has 7 academic publications in both national and international congresses, including advanced English communication skills.
+PhD in Evolutionary Computation and Machine Learning, including combinatorial optimization, meta-heuristics, and deep neural networks. Has several academic publications in both national and international congresses.
 
 DevOps Engineer with 2 years of experience focused on automation. Experienced with Docker, Kubernetes, CI/CD pipelines, Terraform, Python, and Bash scripting.
 
